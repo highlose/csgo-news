@@ -5,7 +5,7 @@
       "description": "All server-related news is published here. To view or add your server's news, click on the news item.",
       "date": "2026-05-10",
       "link": "https://dsc.gg/mira-gc",
-      "imageUrl": "file://{images}/operations/op9/mission_8.png",
+      "imageUrl": "file://{images}/store/default-news.png",
       "categories": []
     },
     {
@@ -13,7 +13,7 @@
       "description": "The official telegram channel of the developer",
       "date": "2026-06-04",
       "link": "https://t.me/minpointed",
-      "imageUrl": "file://{images}/operations/op9/mission_8.png",
+      "imageUrl": "file://{images}/store/default-news.png",
       "categories": []
     }
   ],
